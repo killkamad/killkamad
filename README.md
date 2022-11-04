@@ -12,9 +12,12 @@
 
 ### Technologies:
 <p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/96/null/python--v1.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ruby-programming-language.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/96/null/redis.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/96/null/postgreesql.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/plasticine/100/null/api-settings.png"/>
 </p>
 
 #### Profile views counter
