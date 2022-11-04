@@ -18,6 +18,8 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/plasticine/100/null/api-settings.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/96/null/redis.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png"/>
+	<img width="10%" style="padding:5px" src="https://docs.celeryq.dev/en/stable/_static/celery_512.png"/>
+
 	
 </p>
 
