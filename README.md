@@ -1,6 +1,6 @@
-## Hello, I'm Mashtakov Kirill
-• Back-end developer 
-• Currently practicing **Algorithms**
+### Hello, I'm Mashtakov Kirill
+- Back-end developer 
+- Currently practicing **Algorithms**
 
 ### Feel Free to Contact me:
 
@@ -24,5 +24,5 @@
 	
 </p>
 
-#### Profile views counter
+### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/killkamad/count.svg)
