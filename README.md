@@ -1,4 +1,4 @@
-## Oi, I'm Mashtakov Kirill
+## Hello, I'm Mashtakov Kirill
 - Back-end developer 
 - Currently practicing **Algorithms**
 
