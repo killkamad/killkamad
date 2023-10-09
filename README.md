@@ -1,6 +1,6 @@
 ### Hello, I'm Mashtakov Kirill
-- Back-end developer 
-- Currently practicing **Algorithms**
+- Python developer
+- Currently working as **MLOps Engineer**
 
 ### Feel Free to Contact me:
 
